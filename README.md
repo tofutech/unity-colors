@@ -1,4 +1,5 @@
-# Unity Colors ![image](https://user-images.githubusercontent.com/81934761/230744356-a7826d23-9a6d-4f71-806b-052207699919.png)
+# Unity Colors 
+
 
 The original Ambiance and Radiance themes, now in a whole spectrum of colors!
 
