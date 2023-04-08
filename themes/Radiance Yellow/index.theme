@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Radiance Blue
+Comment=Ubuntu Radiance theme (Blue)
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Radiance Blue
+MetacityTheme=Radiance Blue
+IconTheme=ubuntu-mono-light
+CursorTheme=DMZ-White
+ButtonLayout=close,minimize,maximize:
+X-Ubuntu-UseOverlayScrollbars=true

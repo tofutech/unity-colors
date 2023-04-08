@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Radiance Pink
+Comment=Ubuntu Radiance theme (Pink)
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Radiance Pink
+MetacityTheme=Radiance Pink
+IconTheme=ubuntu-mono-light
+CursorTheme=DMZ-White
+ButtonLayout=close,minimize,maximize:
+X-Ubuntu-UseOverlayScrollbars=true

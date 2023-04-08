@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Radiance Green
+Comment=Ubuntu Radiance theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Radiance Green
+MetacityTheme=Radiance Green
+IconTheme=ubuntu-mono-light
+CursorTheme=DMZ-White
+ButtonLayout=close,minimize,maximize:
+X-Ubuntu-UseOverlayScrollbars=true
