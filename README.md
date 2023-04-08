@@ -1,2 +1,2 @@
 # unity-colors
-The original Ambiance and Radiance themes, now ina whole spectrum of colors!
+The original Ambiance and Radiance themes, now in a whole spectrum of colors!
